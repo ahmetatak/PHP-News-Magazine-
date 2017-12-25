@@ -1,0 +1,206 @@
+
+/*! index CSS */
+.manset{
+	
+
+}
+.manset img{
+	  min-width:100% !important;
+    height:auto;
+    display:block;
+	
+}
+.videos-box{
+	background-color: #F0F0F0;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	padding-top: -20px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border-right-width: thin;
+	border-right-style: solid;
+	border-right-color: #FFF;
+}
+.videolist{
+	min-height: 120px;
+	min-width: 120px;
+	padding-top: -20px;
+	margin-top: -30px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+}
+.videolist img{
+	min-height: 120px;
+	min-width: 120px;
+	max-height: 120px;
+	max-width: 120px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+.videolist ul{
+	float: none;
+	margin-bottom: -25px;
+}
+.news-box{
+	background-color: #F0F0F0;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	padding-top: -20px;
+	padding-right: 5px;
+	padding-bottom: 25px;
+	padding-left: 5px;
+}
+
+.newslist{
+	min-height: 120px;
+	min-width: 120px;
+	padding-top: -20px;
+	margin-top: -30px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+.newslist img{
+	min-height: 120px;
+	min-width: 120px;
+	max-height: 120px;
+	max-width: 120px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+.news-box ul{
+	float: none;
+	margin-bottom: -25px;
+}
+
+.pict-box{
+	background-color: #F0F0F0;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	padding-top: -20px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+.pictlist{
+	min-height: 120px;
+	min-width: 120px;
+	padding-top: -20px;
+	margin-top: -30px;
+	margin-right: 5px;
+	margin-bottom: 20px;
+	margin-left: 5px;
+}
+.pictlist img{
+	min-height: 120px;
+	min-width: 120px;
+	max-height: 120px;
+	max-width: 120px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+.pictlist ul{
+	float: none;
+	margin-bottom: -25px;
+}
+#myCarousel{
+
+	background-color: #FFF;
+}
+
+/*!*/
+
+.panelside {
+    position: fixed;
+    left: -15.625em; /*or width of your navigation panel*/
+    width: 15.625em; /*should match the above value*/
+}
+
+/*  
+    Demo Specific Styles
+    ====================
+*/
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #101820;
+    line-height: 1.5;
+}
+
+.wrap {
+    position: relative;
+    max-width: 100%;
+
+   
+}
+
+.panelside {
+    background: #101820;
+	
+}
+
+.panelside a {
+    color: #fff;
+	min-width:100%;
+}
+
+
+/*! */
+
+#myCarousel .thumbnail {
+	margin-bottom: 0;
+}
+.carousel-control.left, .carousel-control.right {
+	background-image:none !important;
+}
+.carousel-control {
+	color:#fff;
+	top:40%;
+	color:#428BCA;
+	bottom:auto;
+	padding-top:4px;
+	width:30px;
+	height:30px;
+	text-shadow:none;
+	opacity:1;
+}
+.carousel-control:hover {
+	color: #d9534f;
+}
+.carousel-control.left, .carousel-control.right {
+	background-image:none !important;
+}
+.carousel-control.right {
+	left:auto;
+	right:-25px;
+}
+.carousel-control.left {
+	right:auto;
+	left:-25px;
+}
+
+.carousel-indicators {
+	bottom:-30px;
+}
+.carousel-indicators li {
+	border-radius:0;
+	width:10px;
+	height:10px;
+	background:#ccc;
+	border:1px solid #ccc;
+}
+.carousel-indicators .active {
+	width:12px;
+	height:12px;
+	background:#3276b1;
+	border-color:#3276b1;
+}
+

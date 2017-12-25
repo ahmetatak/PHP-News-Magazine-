@@ -1,0 +1,36 @@
+/*
+* ENGLISH
+ * /////////////////////////
+ * Copyright 2014 © thevancat.com  All Rights Reserved.
+ * This project was built by Thevancat.com, Vancat.org
+ * You must not change or share any files from this project.
+ * Designed by Ahmet ATAK
+ * the project was coded by Ahmet ATAK | www.ahmetatak.com & www.ahmetatak.net
+ * ///////////////////////////
+ * 
+ * Türkçe
+ * ///////////////////////////
+ * Copyright 2014 © thevancat.com  her hakkı saklıdır.
+ * Projedeki dosyaların ve kodların izinsiz kopyalanması veya paylaşılması yasaktır.
+ * Tasarlayan Ahmet ATAK       | www.ahmetatak.com & www.ahmetatak.net
+ * Sayfayı kodlayan Ahmet ATAK | www.ahmetatak.com & www.ahmetatak.net
+..........::::::::::  AHMET ATAK  ::::::::::..........
+*/
+/* 
+    Created on : 30.Haz.2014, 05:12:52
+    Author     : Ahmet ATAK
+*/
+
+	label.valid {
+	  width: 24px;
+	  height: 24px;
+	  background: url(assets/img/valid.png) center center no-repeat;
+	  display: inline-block;
+	  text-indent: -9999px;
+	}
+	label.error {
+		font-weight: bold;
+		color: red;
+		padding: 2px 8px;
+		margin-top: 2px;
+	}
