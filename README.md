@@ -1,5 +1,5 @@
 # PHP NEWS MAGAZINE  SCRIPT
-News & Magazine script helps you publish news on the website.
+News & Magazine script helps you to publish news on the website.
 it is a basic example script and it will grow up with your supports.
 
 # # Setup
