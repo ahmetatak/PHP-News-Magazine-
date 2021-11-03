@@ -8,14 +8,14 @@
  * Tesbit edildiği taktirde kişi hakkında yasal işlem başlatılacaktır.
  * Bu proje NetBeans IDE 8.0 tarafından lisanslanmıştır.
  * Yazılım & Tasarım By : Vancat.ORG  | Vancat Sofware | Vancat yazılım & Tasarım
- * Iletişim   : info@ahmetatak.net, ahmet_atak@msn.com
+ * Iletişim   : info@ahmetatak.net, info@ahmetatak.net
  * |||||| ENGLISH ||||||||
  * Copyright © 2015 vukuat.com all rights reserved.
  * This project is private Only,the project owner can use this software.
  * Please do not share or change any file on this project.
  * This project was licensed by NetBeans IDE 8.0.
  * Powered By : Vancat.ORG  | Vancat Sofware | Vancat yazılım & Tasarım
- * Contact    : info@ahmetatak.net, ahmet_atak@msn.com
+ * Contact    : info@ahmetatak.net, info@ahmetatak.net
  */
 
 
